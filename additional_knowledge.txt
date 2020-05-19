@@ -1,0 +1,54 @@
+(not B_1_1)
+(not P_1_1)
+(not S_1_1)
+(not M_1_1)
+
+B_1_2
+(not P_1_2)
+(not S_1_2)
+(not M_1_2)
+
+(not B_1_3)
+P_1_3
+(not S_1_3)
+(not M_1_3)
+
+B_1_4
+(not P_1_4)
+(not S_1_4)
+(not M_1_4)
+
+(not B_2_1)
+(not P_2_1)
+S_2_1
+(not M_2_1)
+
+(not B_2_2)
+(not P_2_2)
+(not S_2_2)
+(not M_2_2)
+
+B_2_3
+(not P_2_3)
+(not S_2_3)
+(not M_2_3)
+
+(not B_2_4)
+(not P_2_4)
+(not S_2_4)
+(not M_2_4)
+
+B_3_2
+(not P_3_2)
+S_3_2
+(not M_3_2)
+
+(not B_3_3)
+P_3_3
+(not S_3_3)
+(not M_3_3)
+
+B_3_4
+(not P_3_4)
+(not S_3_4)
+(not M_3_4)
